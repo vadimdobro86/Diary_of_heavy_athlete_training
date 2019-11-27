@@ -1,0 +1,65 @@
+Keep the mass of the projectile:100
+Keep the number of repetitions:10
+One repeat maximum mass with a stationary thrust: 133.33 kg
+One repeat maximum mass at the bench lying down: 138.46 kg
+One repeat maximum weight when squatted with a barbell: 125.00 kg
+
+Percentage relation to one repeat maximum mass at the state of the draft:
+10% - 13 -14 kg	
+20% - 26 -27 kg	
+30% - 39 -40 kg	
+40% - 53 -54 kg	
+50% - 66 -67 kg	
+60% - 79 -80 kg	
+70% - 93 -94 kg	
+80% - 106 -107 kg	
+90% - 119 -120 kg	
+100% - 133 -134 kg	
+
+Percentage relation to one repeat maximum mass at the lying down:
+10% - 13 -14 kg
+20% - 27 -28 kg
+30% - 41 -42 kg
+40% - 55 -56 kg
+50% - 69 -70 kg
+60% - 83 -84 kg
+70% - 96 -97 kg
+80% - 110 -111 kg
+90% - 124 -125 kg
+100% - 138 -139 kg
+
+Percentage relation to one repeat maximum mass at the sitting barbell:
+10% - 12 -13 kg	
+20% - 25 -26 kg	
+30% - 37 -38 kg	
+40% - 50 -51 kg	
+50% - 62 -63 kg	
+60% - 75 -76 kg	
+70% - 87 -88 kg	
+80% - 100 -101 kg	
+90% - 112 -113 kg	
+100% - 125 -126 kg	
+
+Percentage of weight to number of repetitions:
+10%-19-20 repeats
+20%-17-18 repeats
+30%-15-16 repeats
+40%-13-14 repeats
+50%-11-12 repeats
+60%-9-10 repeats
+70%-7-8 repeats
+80%-5-6 repeats
+90%-3-4 repeats
+100%-1-2 repeats
+
+Recomendashon number of set for one training:10%-40% - 4-5 set
+
+Recomendashon number of set for one training:40%-70% - 3-4 set
+
+Recomendashon number of set for one training:70%-100% - 2-3 set
+
+Recomendashon number workouts for of  week :10%-40% - 3-4 training
+
+Recomendashon number workouts for of  week :40%-70% - 2-3 training
+
+Recomendashon number workouts for of  week :70%-100% - 1-2 training
